@@ -51,5 +51,9 @@ app.use("/authentication", authentication);
 app.use("/aktifitas", aktifitas);
 app.use("/progress", progress);
 
-
+app.get('/', () => {
+  res.status(200).json({
+    message : 'FITNESS TRACKER API' 
+  })
+})
 module.exports = app
