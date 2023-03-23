@@ -1,0 +1,24 @@
+Nama Proyek: "Fitness Tracker API"
+
+Deskripsi Proyek: Proyek ini akan menjadi sebuah API yang memungkinkan pengguna untuk mencatat aktivitas fitness dan mengelola progress mereka. Pengguna dapat mencatat aktivitas seperti berlari, bersepeda, atau angkat beban, serta melihat riwayat aktivitas mereka dan progress yang telah dicapai. Data aktivitas dan progress akan disimpan dalam database MySQL.
+
+Fitur:
+
+Menambahkan aktivitas baru ke dalam database.
+Mendapatkan daftar aktivitas yang tersedia beserta detail informasi seperti jenis aktivitas, durasi, dan jarak/tempuh.
+Mengedit informasi aktivitas yang sudah ada dalam database.
+Menghapus aktivitas dari database.
+Menambahkan progress baru ke dalam database.
+Mendapatkan daftar progress beserta detail informasi seperti tanggal pencatatan dan jumlah yang telah dicapai.
+Mengedit informasi progress yang sudah ada dalam database.
+Menghapus progress dari database.
+Endpoint:
+
+GET /activities - Mendapatkan daftar aktivitas
+POST /activities - Menambahkan aktivitas baru
+PUT /activities/:id - Mengedit aktivitas yang sudah ada
+DELETE /activities/:id - Menghapus aktivitas
+GET /progress - Mendapatkan daftar progress
+POST /progress - Menambahkan progress baru
+PUT /progress/:id - Mengedit progress yang sudah ada
+DELETE /progress/:id - Menghapus progress
