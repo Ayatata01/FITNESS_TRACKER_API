@@ -19,17 +19,7 @@ Proyek ini akan menjadi sebuah API yang memungkinkan pengguna untuk mencatat akt
 2. mongodb/mongoose
 3. json web token (jwt)
 
-### Cara Penggunaan
-1. clone github
-2. buat database mongodb
-3. masuk ke index.js pada bagian 
-mongoose
-  .connect(
-    `(mongodb link)`
-  )
-rubah mongodb link menjadi link untuk koneksi ke database mongodb
-4. jalankan perintah npm install
-5. jalankan perintah npm start
+host url : https://fitness-tracker-api.vercel.app
 
 ### Dokumentasi penggunaan dapat dilihat di link berikut :
 https://documenter.getpostman.com/view/21857409/2s93RNyvAf
