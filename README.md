@@ -15,7 +15,7 @@ Proyek ini akan menjadi sebuah API yang memungkinkan pengguna untuk mencatat akt
 
 ### Teknologi yang digunakan
 1. node js/express
-2. mySQL/sequelize
+2. mongodb/mongoose
 3. json web token (jwt)
 
 ### Cara Penggunaan
