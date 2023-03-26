@@ -31,7 +31,7 @@ rubah mongodb link menjadi link untuk koneksi ke database mongodb
 4. jalankan perintah npm install
 5. jalankan perintah npm start
 
-### Dokumentasi Penggunaan Endpoint dapat dilihat di dokumentasi postman berikut
+### Dokumentasi penggunaan dapat dilihat di link berikut :
 https://documenter.getpostman.com/view/21857409/2s93RNyvAf
 
 ### Author : Yoga Rizya Pratama (yogarizya.pratama@gmail.com)
