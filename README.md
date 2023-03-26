@@ -1,7 +1,7 @@
 # FITNESS TRACKER API
 Proyek ini akan menjadi sebuah API yang memungkinkan pengguna untuk mencatat aktivitas fitness dan mengelola progress mereka. Pengguna dapat mencatat aktivitas seperti berlari, bersepeda, atau angkat beban, serta melihat riwayat aktivitas mereka dan progress yang telah dicapai. Data aktivitas dan progress akan disimpan dalam database MongoDB.
 
-# FITUR
+### FITUR
 1. Register akun
 2. Login
 3. Menambahkan aktivitas baru ke dalam database.
@@ -13,7 +13,7 @@ Proyek ini akan menjadi sebuah API yang memungkinkan pengguna untuk mencatat akt
 9. Mengedit informasi progress yang sudah ada dalam database.
 10. Menghapus progress dari database.
 
-# Teknologi yang digunakan
+### Teknologi yang digunakan
 1. node js/express
 2. mySQL/sequelize
 3. json web token (jwt)
