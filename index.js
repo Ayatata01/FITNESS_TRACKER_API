@@ -32,7 +32,7 @@ app.use((req, res, next) => {
 
 mongoose
   .connect(
-    `mongodb://${process.env.DB_USERNAME}:${process.env.DB_PASSWORD}@ac-9xsqnuo-shard-00-00.iyftu5l.mongodb.net:27017,ac-9xsqnuo-shard-00-01.iyftu5l.mongodb.net:27017,ac-9xsqnuo-shard-00-02.iyftu5l.mongodb.net:27017/?ssl=true&replicaSet=atlas-g7ik5a-shard-0&authSource=admin&retryWrites=true&w=majority`
+    `(mongodb link)`
   )
   .then(() => {
     console.log("connection to database successfully");
