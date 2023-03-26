@@ -1,5 +1,7 @@
 # FITNESS TRACKER API
+````
 Proyek ini akan menjadi sebuah API yang memungkinkan pengguna untuk mencatat aktivitas fitness dan mengelola progress mereka. Pengguna dapat mencatat aktivitas seperti berlari, bersepeda, atau angkat beban, serta melihat riwayat aktivitas mereka dan progress yang telah dicapai. Data aktivitas dan progress akan disimpan dalam database MongoDB.
+````
 
 ### FITUR
 1. Register akun
@@ -32,3 +34,5 @@ rubah mongodb link menjadi link untuk koneksi ke database mongodb
 
 ### Dokumentasi Penggunaan Endpoint dapat dilihat di dokumentasi postman berikut
 https://documenter.getpostman.com/view/21857409/2s93RNyvAf
+
+### Author : Yoga Rizya Pratama (yogarizya.pratama@gmail.com)
